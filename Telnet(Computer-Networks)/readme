@@ -1,0 +1,6 @@
+PA1: Implementation of Telnet
+Task:
+1. Your assignment is to implement telnet using C sockets. 
+2. Your telnet should be able to perform all the tasks that can be done using standard telnet program
+3. The assignment is to be done alone and in see only.
+4. The web-links provided give information about Socket and Telnet in detail. 
