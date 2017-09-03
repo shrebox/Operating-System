@@ -8,3 +8,5 @@ cd, history, clear, piping, redirecting stdin and stdout (using > and <), kill, 
 Use of fork, exec, wait etc.
 
 No use of 'system' command - you have to write your own shell and not use existing shell.
+
+To run: $ sudo make
