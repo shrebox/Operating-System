@@ -19,7 +19,3 @@ Diagnostic APIs:
 7. void print_dataBitmaps(int fileSystemId): prints the bitmaps of data block 
 8. void print_FileList(int fileSystemId): prints all the files in the file system 
 
-Instructions:
-1. The project can be done in a team of TWO or One.
-2. All the code file names must be preceded by Rollno1_Rollno2. The Rollnos must be of the form YYxxx where YY refers to the year of enrollment. If you are going to upload a zip file then every code file in the .zip file must have roll numbers in the name as mentioned above. 
-3. The assignment will not be evaluated if the instructions are not followed and no exceptions will be given. 
