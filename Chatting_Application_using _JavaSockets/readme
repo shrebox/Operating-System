@@ -1,0 +1,19 @@
+author@Shreyash Arya
+
+Server file: server_2015097r1.java
+Client file: client_2015097r1.java
+
+* First run server_2015097r1.java to run server and then the clients using client_2015097r1.java in different terminals to connect to the same server. 
+* Server can handle multiple clients.
+* Clients are need to be open in different terminals.
+* Normal counter is used to give each client an ID.
+
+Following are the capabilities of full-fledged chat application like Whatsapp. 
+
+A client, say client 0, should be able to send following types of messages:
+
+a) Client X: Message - the message will be delivered to Client X.
+b) All: Message - the message will be delivered to all present clients.
+c) Client X,Y: Message - the message will be delivered to Client X and Y only
+d) Server: "List All" - the message will go to server which will then reply with the list of all the clients that are currently connected.
+e) If a client sends a message to another client which does not exist then the server should reply back saying the client does not exist.
